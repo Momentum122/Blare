@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "blare.kicad_pro",
+    "filename": "Blare.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/priyangka/personal/Mandeep/Blare/Kicad/ger/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Blare.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -664,12 +664,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "blare.kicad_sch",
+        "filename": "Blare.kicad_sch",
         "name": "Root",
         "uuid": "7dcd853a-b2fe-4ea9-a053-0232d1e8e6bb"
       }
     ],
-    "used_designators": "#PWR1-8,H1-4,J1-2,BZ1,SW1-9,U1",
+    "used_designators": "#FLG1-2,#PWR1-8,H1-4,J1-2,BZ1,SW1-9,U1",
     "variants": []
   },
   "sheets": [
