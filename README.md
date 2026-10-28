@@ -50,7 +50,6 @@ The enclosure consists of a main body and a front faceplate/cover designed to fi
 
 # Project Structure
 
-```text
 Blare
 CAD
  -Individual Files
