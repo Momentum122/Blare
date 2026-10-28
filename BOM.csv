@@ -1,0 +1,19 @@
+Item Number,Component Description,Quantity,Source / Vendor,Cost (INR),Cost (USD)
+1,Seeed Studio XIAO ESP32-C3,1,Hack Club,₹0.00,$0.00
+2,Cherry MX Switches,4,Hack Club,₹0.00,$0.00
+3,DSA Keycaps,4,Hack Club,₹0.00,$0.00
+4,2.25-inch ST7789 TFT Display (284x76),1,Hack Club,₹0.00,$0.00
+5,3.3V Piezo Buzzer,1,Hack Club,₹0.00,$0.00
+6,8-Pin 2.54mm Male Header,1,Hack Club,₹0.00,$0.00
+7,20cm F-to-F Jumper Wires,8,Hack Club,₹0.00,$0.00
+8,M3x5x4mm Heat-Set Brass Inserts,8,Hack Club,₹0.00,$0.00
+9,M3 Screws (M3x8mm & M3x16mm),1 set,Hack Club,₹0.00,$0.00
+10,BLARE Clock Case (3 Printed Parts),1 set,Printing Legion,₹0.00,$0.00
+11,BLARE Clock PCBs (Batch of 5),5,JLCPCB,₹841.68,$10.02
+12,"XIKKART 17.8 x 11.8"" Silicone Soldering Mat",1,Amazon.in,₹524.00,$6.23
+13,FOURDOT 120mm USB Cooling Fan,1,Amazon.in,₹745.00,$8.86
+14,900M-T-2.4D Chisel Soldering Tip,1,Robu.in,₹120.00,$1.42
+,TOTAL PROJECT VALUE (All Items),,,"₹2,230.68",$26.53
+,LESS: PCB Grant (JLCPCB),,,"-₹840.00",-$10.00
+,LESS: Soldering Gear Grant,,,"-₹1,512.00",-$18.00
+,"UNUSED GRANT FUNDS (To be applied to Hackpad out-of-pocket costs)",,,"₹121.32",$1.47
