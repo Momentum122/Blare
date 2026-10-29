@@ -53,6 +53,7 @@
  - Funded and built by the support of Hackclub
  - Thanks to Hackclub for providing resources and grants 
  - I dont anything used in this build except PCB , Case and firmware however feel free to use them however you like without restrictions.
+ - Usage of AI for guidance in firmware and debuggin a few PCB errors.
 
 Questions , Issues and complaints are accepted . If you have any contact me on my email.
 EmaiL :- mandeepswami2010@gmail.com
