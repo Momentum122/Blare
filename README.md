@@ -17,6 +17,8 @@
   when in setting alarm mode it acts as a confirm button.
  When alarm is ringing it display WAKE UP
 
+![Schemtic](Images/Schematic.png)
+
 # File structure 
  - CAD  ( contains .step files for 3d models of the case).
  - Firmware contains the firmware code.
@@ -26,14 +28,20 @@
  - BOM.csv contains bill of materials.
  - README.md what you are reading right now .
 
+ ![alt text](<Images/Complete case.png>)
+
 # How to make
  - Order the PCB from a pcb manufacter ( i will use JLCPCB)
  - 3D print the case 
  - Flash the the XIAO with the firmware code 
  - and assemble all of the things .
 
+ ![alt text](<Images/PCB 3d.png>)
+
 # How to flash 
  - Detailed guide on https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
+
+![PCB](Images/PCB.png)
 
 # BUILT WITH 
  - KICAD ( PCB )
