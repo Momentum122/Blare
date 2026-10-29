@@ -10,10 +10,13 @@ Item Number,Component Description,Quantity,Source / Vendor,Cost (INR),Cost (USD)
 9,M3 Screws (M3x8mm & M3x16mm),1 set,Hack Club,₹0.00,$0.00
 10,BLARE Clock Case (3 Printed Parts),1 set,Printing Legion,₹0.00,$0.00
 11,BLARE Clock PCBs (Batch of 5),5,JLCPCB,₹841.68,$10.02
-12,"XIKKART 17.8 x 11.8"" Silicone Soldering Mat",1,Amazon.in,₹524.00,$6.23
-13,FOURDOT 120mm USB Cooling Fan,1,Amazon.in,₹745.00,$8.86
-14,900M-T-2.4D Chisel Soldering Tip,1,Robu.in,₹120.00,$1.42
-,TOTAL PROJECT VALUE (All Items),,,"₹2,230.68",$26.53
-,LESS: PCB Grant (JLCPCB),,,"-₹840.00",-$10.00
-,LESS: Soldering Gear Grant,,,"-₹1,512.00",-$18.00
-,"UNUSED GRANT FUNDS (To be applied to Hackpad out-of-pocket costs)",,,"₹121.32",$1.47
+12,Bakon BK609S Soldering Iron,1,Robu.in,"₹1,109.00",$12.89
+13,YIHUA X-4 Soldering Iron Holder,1,Robu.in,₹369.00,$4.29
+14,"Solder Wire 0.8mm 50g",1,Robu.in,₹289.00,$3.36
+15,Taparia 1405 Side Cutting Mini Plier,1,Amazon.in,₹239.00,$2.78
+16,"SP Professional Solder Sucker & Wick","1 set",Amazon.in,₹99.00,$1.15
+17,"Geek Lab Solder Flux Paste (Amtech RMA-223)",1,Amazon.in,₹232.00,$2.70
+,TOTAL PROJECT VALUE (All Items),,,"₹3,178.68","$37.19"
+,LESS: PCB Grant (JLCPCB),,,"-₹949.66","-$10.00"
+,LESS: Soldering Gear Grant,,,"-₹1,709.38","-$18.00"
+,TOTAL OUT-OF-POCKET COST,,,"₹519.64","$9.19"
