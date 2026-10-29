@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "/home/priyangka/personal/Mandeep/Blare/Production/",
       "specctra_dsn": "",
-      "step": "Blare.step",
+      "step": "../../BLARE.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

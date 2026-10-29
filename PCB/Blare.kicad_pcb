@@ -378,6 +378,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/priyangka/Downloads/Cherry MX.STEP"
+			(offset
+				(xyz -2.5 -4 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -1086,6 +1097,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/priyangka/Downloads/Cherry MX.STEP"
+			(offset
+				(xyz -2.5 -4 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -1378,6 +1400,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/home/priyangka/Downloads/Cherry MX.STEP"
+			(offset
+				(xyz -2.5 -4 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -1668,6 +1701,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/home/priyangka/Downloads/Cherry MX.STEP"
+			(offset
+				(xyz -2.5 -4 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
