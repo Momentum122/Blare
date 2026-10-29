@@ -4,13 +4,13 @@
 ![Combined](<Images/FULL with pCb.png>)
 
 #  Features
- Key 1 - Mode button 
+- Key 1 - Mode button 
   Three modes are there . Normal mode , set alarm hour , set alarm minute.
- Key 2 - Increase Button
+- Key 2 - Increase Button
   Increase the hours or minutes . 
- Key 3 - Decrease Button
+- Key 3 - Decrease Button
   Decrease the hours or minutes .
- key 4 -
+- key 4 -
  It has 3 things to do . 
   When alarm is ringing it turns it off.
   When in normal mode turns alarm on or off.
